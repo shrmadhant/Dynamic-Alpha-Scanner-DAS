@@ -1,0 +1,7 @@
+# TradingView specific
+*.log
+*.tmp
+
+# OS generated files
+.DS_Store
+Thumbs.db
